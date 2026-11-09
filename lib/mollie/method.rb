@@ -10,7 +10,7 @@ module Mollie
     BILLIE         = 'billie'.freeze
     BILLINK        = 'billink'.freeze
     BIZUM          = 'bizum'.freeze
-    BLIK           = 'bilk'.freeze
+    BLIK           = 'blik'.freeze
     CREDITCARD     = 'creditcard'.freeze
     DIRECTDEBIT    = 'directdebit'.freeze
     EPS            = 'eps'.freeze
